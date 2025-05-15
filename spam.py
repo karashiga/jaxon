@@ -10,12 +10,12 @@ from rich.console import Console
 # Dito lang pede mo palitan
 # dont change the key name (e.g owner,facebook,etc.), value lang palitan mo
 info = {
-  "owner": 'karashiga dev',
+  "owner": 'KARASHIGA DEV',
   "facebook": 'https://www.facebook.com/jaxonvaughnrpw',
-  "tool": 'Spamshare',
+  "tool": 'SPAMSHARER TERMUX',
   "version": '1.9',
   "active": 'ACTIVE',
-  "note": 'This tool is for paid user only noy free, do not spread this script i will hunting you if i cought you',
+  "note": 'FUCK YOU, WHY ARE YOU HERE',
 }
 
 # simuka dito wag mo na ibahin baka masira mo pa code
@@ -30,12 +30,12 @@ os.system('cls' if os.name == 'nt' else 'clear')
 def banner():
   bannir = f"""
 \033[1;97m____________________________________________________________
-  ╭━━━┳━━━┳━━━┳━╮╭━┳━━━┳╮╱╭┳━━━┳━━━┳━━━╮╭╮╱╭┳╮╱╭┳━━╮
-  ┃╭━╮┃╭━╮┃╭━╮┃┃╰╯┃┃╭━╮┃┃╱┃┃╭━╮┃╭━╮┃╭━━╯┃┃╱┃┃┃╱┃┃╭╮┃
-  ┃╰━━┫╰━╯┃┃╱┃┃╭╮╭╮┃╰━━┫╰━╯┃┃╱┃┃╰━╯┃╰━━╮┃╰━╯┃┃╱┃┃╰╯╰╮
-  ╰━━╮┃╭━━┫╰━╯┃┃┃┃┃┣━━╮┃╭━╮┃╰━╯┃╭╮╭┫╭━━╯┃╭━╮┃┃╱┃┃╭━╮┃
-  ┃╰━╯┃┃╱╱┃╭━╮┃┃┃┃┃┃╰━╯┃┃╱┃┃╭━╮┃┃┃╰┫╰━━╮┃┃╱┃┃╰━╯┃╰━╯┃
-  ╰━━━┻╯╱╱╰╯╱╰┻╯╰╯╰┻━━━┻╯╱╰┻╯╱╰┻╯╰━┻━━━╯╰╯╱╰┻━━━┻━━━╯
+       ╭━━━┳━━━┳━━━┳━╮╭━┳━━━┳╮╱╭┳━━━┳━━━┳━━━╮╭╮╱╭┳╮╱╭┳━━╮
+       ┃╭━╮┃╭━╮┃╭━╮┃┃╰╯┃┃╭━╮┃┃╱┃┃╭━╮┃╭━╮┃╭━━╯┃┃╱┃┃┃╱┃┃╭╮┃
+       ┃╰━━┫╰━╯┃┃╱┃┃╭╮╭╮┃╰━━┫╰━╯┃┃╱┃┃╰━╯┃╰━━╮┃╰━╯┃┃╱┃┃╰╯╰╮
+       ╰━━╮┃╭━━┫╰━╯┃┃┃┃┃┣━━╮┃╭━╮┃╰━╯┃╭╮╭┫╭━━╯┃╭━╮┃┃╱┃┃╭━╮┃
+       ┃╰━╯┃┃╱╱┃╭━╮┃┃┃┃┃┃╰━╯┃┃╱┃┃╭━╮┃┃┃╰┫╰━━╮┃┃╱┃┃╰━╯┃╰━╯┃
+       ╰━━━┻╯╱╱╰╯╱╰┻╯╰╯╰┻━━━┻╯╱╰┻╯╱╰┻╯╰━┻━━━╯╰╯╱╰┻━━━┻━━━╯
   OWNER: \033[32m{info['owner']}\033[0m
   FACEBOOK: {info['facebook']}
   TOOL: {info['tool']}
